@@ -6,6 +6,7 @@
 ### exercício 03
 represente. em fluxograma e pseudocódigo, um algoritmo para determinar se um numero inteiro e positivo é par ou impa
 #### Fluxograma
+
 ```mermaid
 flowchart TD
 A([inicio])-->B{{digite um numero:}}
