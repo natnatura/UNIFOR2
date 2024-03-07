@@ -12,3 +12,20 @@ G --SIM--> I{{o numero é par!!}}
 H --> J 
 I --> J 
 ```
+```
+ALGORITMO  verifica_par_impar
+DECLARE numero, resto INTEIRO
+ESCREVA "Digite um numero:"
+LEIA numero
+SE numero > 0 ENTÃO
+       resto = numero % 2
+       SE resto == 0 ENTÃO
+             ESCREVA " o numero é par!"
+       SENAO
+              ESCREVA " o numero é impar!"
+ SENAO
+    ESCREVA "o numero deve ser positivo!"
+    FIM
+    
+```
+
