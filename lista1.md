@@ -43,3 +43,34 @@ SE numero > 0 ENTÃO
 |blaala| vllla | lasla | smskfm |
 | md m | kdd | sk  | | 
 ### exercicio 2
+
+### exercício 3
+Represente, em fluxograma e pseudocódigo, um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+#### fluxograma
+```mermaid
+flowchart TD
+A([Inicio]) --> B{{	Digite N1, N2}}
+B-->C[N1+N2 / 2 == x] 
+C--> D{x >= 7}
+D--NÂO-->E{{REPROVADO}}
+D--SIM-->F{{APROVADO}}
+F-->G([FIM])
+E-->G 
+
+```
+#### pseudocodigo
+```
+Algoritmo media_aritimetica
+DECLARE N1, N2 NUMERICO
+ESCREVA "digite N1 e N2"
+LEIA N1,N2
+SE N1+N2 / 2 >= 7 
+	ESCREVA "aprovado"
+SENAO 
+	ESCREVA "reprovado"
+FIM_SE
+FIM_ALGORITMO 
+```
+```
+
+```
