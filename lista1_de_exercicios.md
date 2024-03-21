@@ -38,4 +38,6 @@ SE numero > 0 ENTÃO
     FIM
     
 ```
+| bllslf | lvlvws | aalm | saida |
+| -- | -- | -- | -- |
 ### exercicio 2
