@@ -38,3 +38,4 @@ SE numero > 0 ENTÃO
     FIM
     
 ```
+### exercicio 2
