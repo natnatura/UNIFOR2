@@ -40,4 +40,6 @@ SE numero > 0 ENTÃO
 ```
 | bllslf | lvlvws | aalm | saida |
 | -- | -- | -- | -- |
+|blaala| vllla | lasla | smskfm |
+| md m | kdd | sk  | | 
 ### exercicio 2
