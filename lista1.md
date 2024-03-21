@@ -21,7 +21,6 @@ G --SIM--> I{{o numero é par!!}}
 H --> J 
 I --> J 
 ```
-
 ```
 ALGORITMO  verifica_par_impar
 DECLARE numero, resto INTEIRO
@@ -38,6 +37,8 @@ SE numero > 0 ENTÃO
     FIM
     
 ```
+
+    
 | bllslf | lvlvws | aalm | saida |
 | -- | -- | -- | -- |
 |blaala| vllla | lasla | smskfm |
